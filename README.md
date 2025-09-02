@@ -1,2 +1,2 @@
 # Forex_Algo
-Creating a foreign currency trading algorithm 
+Creating a foreign currency trading algorithm using 
